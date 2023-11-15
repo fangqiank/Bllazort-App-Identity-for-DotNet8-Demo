@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34302.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BllazortAppIdentityDotNet8", "BllazortAppIdentityDotNet8\BllazortAppIdentityDotNet8\BllazortAppIdentityDotNet8.csproj", "{A302BDF8-37CA-411D-9A74-F86534BB12AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BllazortAppIdentityDotNet8.Client", "BllazortAppIdentityDotNet8\BllazortAppIdentityDotNet8.Client\BllazortAppIdentityDotNet8.Client.csproj", "{619C1EAD-8110-4AC6-8922-BD8627E90878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A302BDF8-37CA-411D-9A74-F86534BB12AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A302BDF8-37CA-411D-9A74-F86534BB12AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A302BDF8-37CA-411D-9A74-F86534BB12AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A302BDF8-37CA-411D-9A74-F86534BB12AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{619C1EAD-8110-4AC6-8922-BD8627E90878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619C1EAD-8110-4AC6-8922-BD8627E90878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619C1EAD-8110-4AC6-8922-BD8627E90878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619C1EAD-8110-4AC6-8922-BD8627E90878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F9A8297-4084-46CB-8633-DCF6856324BB}
+	EndGlobalSection
+EndGlobal
